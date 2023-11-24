@@ -5,10 +5,9 @@
 ## This study is not for understanding all the mathematical details
 
 – This study is for …
-• Understanding the core theory and the model (of deep learning)
-• Improve your programming skill (to make your own model with Pytorch)
+  • Understanding the core theory and the model (of deep learning)
+  • Improve your programming skill (to make your own model with Pytorch)
 
 – So, we are going to review many codes in detail (line by line)
-• Also, you have to implement by yourself!
-• Even if you continue to refer to the code published on Github, typing directly while reflecting on the 
-meaning of each line is different from simply copying and pasting.
+  • Also, you have to implement by yourself!
+  • Even if you continue to refer to the code published on Github, typing directly while reflecting on the meaning of each line is different from simply copying and pasting.
