@@ -1,6 +1,8 @@
 # CNN_Advanced
 국민대학교 데이터사이언스학과 딥러닝 스터디 week03 입니다.
+
 이번 스터디의 주제는 CNN-Advanced입니다.
+
 필요한 부분은 스탠포드 대학의 CS231n의 lecture note를 참조하였습니다.
 
 ## This study is not for understanding all the mathematical details
